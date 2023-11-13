@@ -7,6 +7,11 @@ Please create a .env file and add `REACT_APP_API_KEY`=<your_key>
 1. Run `npm i` or `npm i --f`
 2. Run `npm start`. Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+## Screenshots
+
+![alt text](https://github.com/jaskeeratbhatia/movie-mania/blob/main/screenshots/sc1.png?raw=true)
+![alt text](https://github.com/jaskeeratbhatia/movie-mania/blob/main/screenshots/sc2.png?raw=true)
+![alt text](https://github.com/jaskeeratbhatia/movie-mania/blob/main/screenshots/sc3.png?raw=true)
 
 ## Available Scripts
 
