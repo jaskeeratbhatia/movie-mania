@@ -1,0 +1,14 @@
+{
+  "translation": {
+    "popularMovies.header.text": "Pop Movies",
+    "popularMovies.loading.text": "Loading...",
+    "popularMovies.btn.loadMore.text": "Load More",
+    "movieDetails.header.text": "Movie Details",
+    "movieDetails.btn.addFavourite.text": "Add to Favourite",
+    "movieDetails.trailer.title.text": "TRAILERS",
+    "movieDetails.trailer1.btn.text": "Play Trailer 1",
+    "movieDetails.trailer2.btn.text": "Play Trailer 2",
+    "errorPage.title": "Page not found",
+    "errorPage.btn.home.text": "Go to home"
+  }
+}
